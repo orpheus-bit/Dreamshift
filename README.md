@@ -1,2 +1,2 @@
 # Dreamshift
-A project that (hopefully) functions as a program.
+A program that I don't know what to do with.
